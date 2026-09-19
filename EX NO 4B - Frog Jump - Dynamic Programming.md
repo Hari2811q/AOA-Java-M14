@@ -1,5 +1,5 @@
 # EX 4B Frog Jump - Dynamic Programming.
-
+## DATE 19.09.26
 ## AIM:
 To write a Java program to for given constraints.
 A Frog Jump 1 or 2 steps at a time.
@@ -20,8 +20,8 @@ The total number of ways to reach the nth step is stored in dp[n] — print this
 
 ## Program:
 ```
-Developed by: Sabarinath.R
-Register Number: 212223100048
+Developed by: Hariprasath R
+Register Number: 212223040059
 import java.util.Scanner;
 
 public class FrogJump {

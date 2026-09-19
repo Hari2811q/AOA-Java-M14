@@ -1,5 +1,5 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
-
+## data 19.09.26
 ## AIM:
 To Write a Java program to solve the below problem using Kadane's Algorithm.
 A solar company installs solar panels around a circular grid of n buildings. Each building either generates or consumes net energy, represented by integers (+ve for generated, -ve for consumed).
@@ -20,8 +20,8 @@ Otherwise, return the maximum of maxSum and wrappedDifference.
 
 ## Program:
 ```
-Developed by: Sabarinath.R
-Register Number:212223100048
+Developed by: Hariprasath R
+Register Number:212223040059
 import java.util.*;
 
 public class SolarEnergyMaximizer {
